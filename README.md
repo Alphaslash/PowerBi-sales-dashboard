@@ -10,7 +10,7 @@ Blinkit enables rapid grocery and essentials delivery. Managing vast data from o
 
 ### Power BI Dashboard Link
 
-View the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMTU3YjllNTEtM2FmOS00ZDZiLTk0MzctNjU0MDVlOGI4YmJmIiwidCI6Ijg0N2RiYTU3LTFmYTEtNDBkZi04MGU1LTZhMmQ1YjM4NjNmNCJ9).
+[View the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTU3YjllNTEtM2FmOS00ZDZiLTk0MzctNjU0MDVlOGI4YmJmIiwidCI6Ijg0N2RiYTU3LTFmYTEtNDBkZi04MGU1LTZhMmQ1YjM4NjNmNCJ9).
 
 ### Goals:
 - Develop an interactive dashboard with real-time updates and dynamic filtering.
