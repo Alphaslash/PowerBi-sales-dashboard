@@ -43,7 +43,6 @@ Analyzes campaign ROI, customer acquisition channels, and regional marketing spe
 
 This repository includes:
 
-- **Alphaslash/** — Project-specific files
 - **Background Images/** — Images used as backgrounds in reports
 - **Excel Dataset/** — Excel files used as data sources
 - **Figma file/** — UI/UX design files
